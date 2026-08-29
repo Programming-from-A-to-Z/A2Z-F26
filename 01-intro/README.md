@@ -2,7 +2,7 @@
 
 ## "Constrained" Writing / "Algorithmic" Writing
 
-- [Constrained Writing Slides](https://docs.google.com/presentation/d/1lVxYdaL938SxGKUljruM5kofbV0y3kImWiViSXW57aw/edit?usp=sharing)
+- [Constrained Writing Slides](https://docs.google.com/presentation/d/1r88FlISoKvf_FcEF4xs4PctfoaXQ2uBsKHTxVAgr_NQ/edit?usp=sharing)
 - "Cut-ups"
   - [Cut-up Method](http://www.writing.upenn.edu/~afilreis/88v/burroughs-cutup.html) from Leroi Jones, ed., The Moderns: An Anthology of New Writing in America (NY: Corinth Books, 1963).
   - [Cut-up machine](http://www.languageisavirus.com/cutupmachine.html#.VfHCY51Viko)
@@ -62,7 +62,6 @@
 
 1. Accept invitation to class Discord and Google Group mailing list.
 2. Read / watch
-
    - The Eyeo Festival was an incredible conference that ran from 2011 to 2022, bringing together "a rich intersection of people doing fascinating things with technology." [So many talks of the talks are highly relevant to the material in this class for the semester, pick one to watch](https://vimeo.com/eyeofestival) and let's share what you learned in class next week! Here are some suggestions: [Stefanie Posavec 2022](https://vimeo.com/777860720), [Stephanie Dinkins 2019](https://vimeo.com/354277038), [Sarah Goff Hennigh-Palermo 2019](https://vimeo.com/354276927), [Janelle Shane 2018](https://vimeo.com/287093890), [Darius Kazemi 2016](https://vimeo.com/176981293), [Allison Parrish 2015](https://vimeo.com/134734729).
    - Introduction and Chapter 8 (which includes section on Jackson Mac Low's diastic) from [Virtual muse experiments in computer poetry, Charles O. Hartman 1949- Project Muse., Hanover, NH : University Press of New England c1996](https://muse-jhu-edu.proxy.library.nyu.edu/book/2399) - login via NYU for access to downloadable PDFs
 

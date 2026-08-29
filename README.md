@@ -1,3 +1,5 @@
+# Computational Text from A to Z
+
 - Daniel Shiffman, Wednesdays, 9:30am - 12:00pm
 - [All class dates](https://itp.nyu.edu/help/fa26-class-dates-and-deadlines/)
 - Office Hours (use NYU google calendar appts, link via class mailing list)
