@@ -19,9 +19,8 @@
 ## p5.js 2.0
 
 - [p5.js](https://p5js.org/)
-- [p5.js 2.0: You Are Here & How to Contribute!](https://discourse.processing.org/t/dev-updates-p5-js-2-0-you-are-here-how-to-contribute/46130)
+- [p5.js 2.0 default switch and tutorials](https://github.com/processing/p5.js/issues/8870)
 - [Multilingual Typography & Text Experiments with p5.js 2.0](https://openprocessing.org/curation/89576)
-- [p5.js 2.1 and 2.2: WebGPU and p5.strands](https://medium.com/@ProcessingOrg/p5-js-2-1-and-2-2-expanding-graphics-avenues-with-p5-strands-improvements-and-webgpu-9771d40c8b1d)
 
 ## p5.js DOM Review
 
