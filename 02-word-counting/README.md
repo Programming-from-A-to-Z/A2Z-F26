@@ -50,6 +50,11 @@
 - 🍿 [Bayes theorem, the geometry of changing beliefs](https://youtu.be/HZGCoVF3YvM)
 - 💻 [Sample start of Bayesian Classification Library](https://github.com/shiffman/bayes-classifier-js)
 
+### Flesch-Kincaid Reading Ease
+
+- 🔗 [Flesch Reading Ease](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) — measures how easy a text is to read based on sentence length and syllable count per word
+- 💻 [Flesch Index p5.js example](https://editor.p5js.org/a2zitp/sketches/OQx3A3Sa0)
+
 ### AFINN-111
 
 - 🍿 [AFINN-111 Video](https://thecodingtrain.com/challenges/44-afinn-111-sentiment-analysis)
@@ -87,6 +92,7 @@ Reflect on your process of word counting and consider the following questions (d
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [what is the title of your assignment?](url)
+
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.

@@ -1,5 +1,12 @@
 # Introduction
 
+## Output: An Anthology of Computer-Generated Text, 1953–2023
+
+This anthology, edited by Lillian-Yvonne Bertram and Nick Montfort and published by the MIT Press and Counterpath, spans seven decades of computer-generated text, beginning before the term “artificial intelligence” was even coined. While not restricted to poetry, fiction, and other creative projects, it reveals the rich work that has been done by artists, poets, and other sorts of writers who have taken computing and code into their own hands.
+
+- [Read the book online via NYU library](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=30975982)
+- [Book launch](https://www.uib.no/en/cdn/174492/output-anthology-computer-generated-text-1953%E2%80%932023)
+
 ## "Constrained" Writing / "Algorithmic" Writing
 
 - [Constrained Writing Slides](https://docs.google.com/presentation/d/1r88FlISoKvf_FcEF4xs4PctfoaXQ2uBsKHTxVAgr_NQ/edit?usp=sharing)
@@ -21,6 +28,15 @@
 - [p5.js](https://p5js.org/)
 - [p5.js 2.0 default switch and tutorials](https://github.com/processing/p5.js/issues/8870)
 - [Multilingual Typography & Text Experiments with p5.js 2.0](https://openprocessing.org/curation/89576)
+- 🚨 [p5.js 2.0: Async and Await](https://youtu.be/0Ad5Frf8NBM), [Coding Train page](https://thecodingtrain.com/tracks/p5js-2.0/p5js-2.0/async-await) — transitioning from preload/callbacks in 1.0 to async/await in 2.0
+  - 💻 [Async and Await](https://editor.p5js.org/codingtrain/sketches/Q6S38g0rS)
+  - 💻 [Loading Animation](https://editor.p5js.org/codingtrain/sketches/JLIxyHrkn)
+  - 💻 [Loading in a Sequence](https://editor.p5js.org/codingtrain/sketches/lQxT7PTKC)
+- 🚨 [p5.js 2.0: Typography and Fonts](https://youtu.be/d0GgzjCFWq0), [Coding Train page](https://thecodingtrain.com/tracks/p5js-2.0/p5js-2.0/typography) — variable fonts, textContours(), textModel()
+  - 💻 [Variable Font Weights](https://editor.p5js.org/codingtrain/sketches/9SZYb2vX3)
+  - 💻 [textContours()](https://editor.p5js.org/codingtrain/sketches/ffDf3LmKi)
+  - 💻 [textModel() - 3D Text](https://editor.p5js.org/codingtrain/sketches/Z4DkmlvyM)
+  - 💻 [Coding Challenge 59 updated for p5.js 2.0](https://editor.p5js.org/codingtrain/sketches/cetWD9rvY)
 
 ## p5.js DOM Review
 
@@ -62,7 +78,7 @@
 1. Accept invitation to class Discord and Google Group mailing list.
 2. Read / watch
    - The Eyeo Festival was an incredible conference that ran from 2011 to 2022, bringing together "a rich intersection of people doing fascinating things with technology." [So many talks of the talks are highly relevant to the material in this class for the semester, pick one to watch](https://vimeo.com/eyeofestival) and let's share what you learned in class next week! Here are some suggestions: [Stefanie Posavec 2022](https://vimeo.com/777860720), [Stephanie Dinkins 2019](https://vimeo.com/354277038), [Sarah Goff Hennigh-Palermo 2019](https://vimeo.com/354276927), [Janelle Shane 2018](https://vimeo.com/287093890), [Darius Kazemi 2016](https://vimeo.com/176981293), [Allison Parrish 2015](https://vimeo.com/134734729).
-   - Introduction and Chapter 8 (which includes section on Jackson Mac Low's diastic) from [Virtual muse experiments in computer poetry, Charles O. Hartman 1949- Project Muse., Hanover, NH : University Press of New England c1996](https://muse-jhu-edu.proxy.library.nyu.edu/book/2399) - login via NYU for access to downloadable PDFs
+   - Introduction and Chapter 8 (which includes section on Jackson Mac Low's diastic) from [Virtual muse experiments in computer poetry, Charles O. Hartman 1949- Project Muse., Hanover, NH : University Press of New England c1996](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=776845) - login via NYU for access to downloadable PDFs
 
 3. Using a source text of your choosing, manually perform one of the "constrained writing" techniques described above (or one of your own invention!) Document your results online in whatever format you like (blog post, notion, github pages, etc). There is no need for programming for this assignment, it's just about getting set up in an environment and starting to think about creative ways to play with text. However, you may choose to include animated or interactive elements if you like. Think about creative ways for the page to be "self-documenting", i.e. instructions for the text mashup, references, etc. In case it's helpful I talk through this assignment in an this now 9 years old [2016 A2Z Homework video](https://youtu.be/YTzVbuV89RE?list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX).
 
