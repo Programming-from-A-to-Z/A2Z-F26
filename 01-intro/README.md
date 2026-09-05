@@ -82,7 +82,7 @@ This anthology, edited by Lillian-Yvonne Bertram and Nick Montfort and published
 
 3. Using a source text of your choosing, manually perform one of the "constrained writing" techniques described above (or one of your own invention!) Document your results online in whatever format you like (blog post, notion, github pages, etc). There is no need for programming for this assignment, it's just about getting set up in an environment and starting to think about creative ways to play with text. However, you may choose to include animated or interactive elements if you like. Think about creative ways for the page to be "self-documenting", i.e. instructions for the text mashup, references, etc. In case it's helpful I talk through this assignment in an this now 9 years old [2016 A2Z Homework video](https://youtu.be/YTzVbuV89RE?list=PLRqwX-V7Uu6aoeLx_mWfz6XwtFaD9SkVX).
 
-4. Add a link below! If you have trouble, don't worry, we'll go over how to do the pull request in class next week. Give it your best shot and reach out for help!
+4. Add a link below! If you have trouble, don't worry, we'll go over how to do the pull request in class next week. Give it your best shot and reach out for help! [This video I made last year may help](https://youtu.be/AkcmGbOyjK0).
 
 ## Add your name / link to your assignment below
 
