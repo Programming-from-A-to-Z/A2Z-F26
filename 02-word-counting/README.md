@@ -8,31 +8,39 @@
 - 🍿 [The Secret Life of Pronouns: James Pennebaker at TEDxAustin](https://www.youtube.com/watch?v=PGsQwAu3PzU)
 - 🍿 [Overview of Word Counting + Text Analysis](https://youtu.be/tE-ZYXU8A8U)
 
-### Word Counting Basics
-
-- 🚨 [Associative Arrays in JavaScript](https://youtu.be/_5jdE6RKxVk?list=PLRqwX-V7Uu6bZQkJcGM5S9fn9R9Yyd8iZ)
-- 🚨 [Word Counting (in 3 parts!)](https://thecodingtrain.com/challenges/40-word-counter)
-  - 💻 [word counting sketch updated for p5 2.0](https://editor.p5js.org/a2zitp/sketches/vk4pxyPJS)
-- 💻 [Additional p5.js word counting visualization](https://editor.p5js.org/a2zitp/sketches/50rBhpEsT)
-- 💻 [p5.js word counting two documents visualization](https://editor.p5js.org/a2zitp/sketches/uyLWWpQKB)
-
 ## Tokenizing Text
 
 - transformers.js [Tokenizer playground](https://huggingface.co/spaces/Xenova/the-tokenizer-playground)
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 - `split()` + regex
-- RiTa.js [tokenize() function](https://rednoise.org/rita/reference/RiTa/tokenize/index.html)
+- RiTa.js [tokenize() function](https://rednoise.org/rita/reference/RiTa/tokenize/index.html), uses the [Penn Treebank Tokenization conventions](https://gist.githubusercontent.com/jdkato/fc8b8c4266dba22d45ac85042ae53b1e/raw/8f4c0a5f68400d9d79ef2e5798d3ad8ed6050b8b/tokenizer.sed), [nltk reference](https://www.nltk.org/api/nltk.tokenize.treebank.html)
+
+### Word Counting Basics
+
+- 🚨 [Associative Arrays in JavaScript](https://youtu.be/_5jdE6RKxVk?list=PLRqwX-V7Uu6bZQkJcGM5S9fn9R9Yyd8iZ)
+- 🚨 [Word Counting (in 3 parts!)](https://thecodingtrain.com/challenges/40-word-counter)
+  - 💻 [word counting sketch updated for p5 2.0](https://editor.p5js.org/a2zitp/sketches/vk4pxyPJS)
+  - [word counting with Penn Treebank Tokenization](https://editor.p5js.org/a2zitp/sketches/eARWYKmty)
+  - [word counting with Penn Treebank Tokenization w/ RiTa.js](https://editor.p5js.org/a2zitp/sketches/2OMsSlSxg)
+- 💻 [Additional p5.js word counting visualization](https://editor.p5js.org/a2zitp/sketches/50rBhpEsT)
+- 💻 [p5.js word counting two documents visualization](https://editor.p5js.org/a2zitp/sketches/uyLWWpQKB)
 
 ### Creative Inspiration
 
+- 🔗 [Voyant Tools](https://voyant-tools.org/)
+- 🔗 [From Goat to Despite: How the Words We Teach English Language Learners Changed](https://pudding.cool/2026/07/essential-words/) by Jasmine Nackash, The Pudding
+- 🔗 [Comparisons as Predictable as the Sunrise](https://pudding.cool/2026/05/similes/) by Russell Samora and Shelly Tan, The Pudding
+- 🔗 [NYC's Urban Textscape](https://pudding.cool/2025/07/street-view/) by Matt Daniels, The Pudding
+- 🔗 [In Pursuit of Democracy](https://pudding.cool/2025/11/democracy/) by Alvin, Chang The Pudding
+- 🔗 [When Women Make Headlines](https://pudding.cool/2022/02/women-in-headlines/) by The Pudding
+- 🔗 [Viral Texts](https://viraltexts.org/) by Ryan Cordell and David Smith
 - 🔗 [SPEECH COMPARISON](http://www.runemadsen.com/work/speech-comparison/) by Rune Madsen
 - 🔗 [Word Tree](http://hint.fm/projects/wordtree/) by Martin Wattenberg and Fernanda Viegas
-- 🔗 [Writing Without Words](https://www.stefanieposavec.com/archive/writing-without-words) by Stephanie Posavec
+- 🔗 [Writing Without Words](https://www.stefanieposavec.com/archive/writing-without-words) by Stefanie Posavec
 - 🔗 [Annual Report 2013](http://feltron.com/FAR13.html) by Nicholas Feltron
 - 🔗 [Literary Constellations](https://c82.net/work/?id=357) by Nicholas Rougeux
 - 🔗 [An Interactive Visualization of Every Line in Hamilton](https://pudding.cool/2017/03/hamilton/) by Shirley Wu
-- 🔗 [Book-Book](https://elmcip.net/node/14504) by Sarah Groff-Palermo _I can't find this project active online anymore!_
-- 🔗 [Partisan Thesauras](http://partisanthesaurus.com/) by Melanie Hoff _no longer working_
+- 🔗 [The Largest Vocabulary in Hip Hop](https://pudding.cool/2017/02/vocabulary/) by Matt Daniels, The Pudding
 
 ## Text Analysis
 
@@ -45,14 +53,21 @@
 
 ### Bayesian Text Classification
 
+- 🚨 [Naive Bayes Classifier](https://youtu.be/g3-PXyF8U70), [Coding Train page](https://thecodingtrain.com/challenges/187-bayes-classifier)
+  - 💻 [Initial Version](https://editor.p5js.org/codingtrain/sketches/RZ8a1z4DN)
+  - 💻 [Refactored Version](https://editor.p5js.org/codingtrain/sketches/P3ngrAANX)
+  - 💻 [File Loading Version](https://editor.p5js.org/codingtrain/sketches/WowR2Q9xg)
 - 📚 [A Plan for Spam](http://www.paulgraham.com/spam.html) by Paul Graham
 - 🍿 [Explaining Bayesian Problems Using Visualizations](https://youtu.be/D8VZqxcu0I0) by Luana Micallef
 - 🍿 [Bayes theorem, the geometry of changing beliefs](https://youtu.be/HZGCoVF3YvM)
+- 🔗 [Naive Bayes classifier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) (Wikipedia)
+- 🔗 [Laplacian Smoothing](https://en.wikipedia.org/wiki/Additive_smoothing) (Wikipedia)
 - 💻 [Sample start of Bayesian Classification Library](https://github.com/shiffman/bayes-classifier-js)
 
 ### Flesch-Kincaid Reading Ease
 
 - 🔗 [Flesch Reading Ease](https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests) — measures how easy a text is to read based on sentence length and syllable count per word
+- 🔗 [What Makes Writing More Readable?](https://pudding.cool/2022/02/plain/) by Rebecca Monteleone and Jamie Brew, The Pudding
 - 💻 [Flesch Index p5.js example](https://editor.p5js.org/a2zitp/sketches/OQx3A3Sa0)
 
 ### AFINN-111
