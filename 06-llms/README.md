@@ -19,6 +19,7 @@
 - 🎥 [How large language models work, a visual intro to transformers](https://youtu.be/wjZofJX0v4M) by 3Blue1Brown
 - 🎥 [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) by Andrej Karpathy and [Intro to LLMs slides](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view)
 - 📖 [Language Models Can Only Write Ransom Notes](https://posts.decontextualize.com/language-models-ransom-notes/) by Allison Parrish
+- 🔗 [Language Model Builder](https://languagemodelbuilder.com/) — macOS app for building and training language models from scratch (tokenization, n-grams, embeddings, fine-tuning)
 
 ## Writing with LLMs
 
