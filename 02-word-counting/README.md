@@ -32,7 +32,7 @@
 - 🔗 [Comparisons as Predictable as the Sunrise](https://pudding.cool/2026/05/similes/) by Russell Samora and Shelly Tan, The Pudding
 - 🔗 [NYC's Urban Textscape](https://pudding.cool/2025/07/street-view/) by Matt Daniels, The Pudding
 - 🔗 [In Pursuit of Democracy](https://pudding.cool/2025/11/democracy/) by Alvin, Chang The Pudding
-- 🔗 [When Women Make Headlines](https://pudding.cool/2022/02/women-in-headlines/) by The Pudding
+- 🔗 [When Women Make Headlines](https://pudding.cool/2022/02/women-in-headlines/) by ​​Leonardo Nicoletti and Sahiti Sarva, The Pudding
 - 🔗 [Viral Texts](https://viraltexts.org/) by Ryan Cordell and David Smith
 - 🔗 [SPEECH COMPARISON](http://www.runemadsen.com/work/speech-comparison/) by Rune Madsen
 - 🔗 [Word Tree](http://hint.fm/projects/wordtree/) by Martin Wattenberg and Fernanda Viegas
