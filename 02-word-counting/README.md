@@ -1,5 +1,7 @@
 # Word Counting
 
+- [Concordance and Text Analysis Slides](https://docs.google.com/presentation/d/1DOdTz190ijpPwMgEH_y4Qcdwnv5EVE1-x1mPQlBEc4A/edit?usp=sharing)
+
 ## Concordance
 
 ### Reading / Viewing
