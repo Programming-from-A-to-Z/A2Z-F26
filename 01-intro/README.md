@@ -90,3 +90,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Bairui Su -- [Box Drawing Writing](https://recho.dev/examples/box-drawing-writing)
 - Queena Zheng -- [Week1 Assignment](https://app.notion.com/p/Week1_Assignment-3d3d452073bc80a997eae5f6cd8f3dd0?source=copy_link)
+- Richard Qian Li -- [Nap Cat](https://editor.p5js.org/ludwig.peking/sketches/ubWunm3mM)
