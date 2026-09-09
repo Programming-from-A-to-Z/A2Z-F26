@@ -90,3 +90,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 
 - Bairui Su -- [Box Drawing Writing](https://recho.dev/examples/box-drawing-writing)
 - Raven -- [Dinner Haikus](https://app.notion.com/p/A2Z-week-1-assignment-3d562d5041068007aa3affc20dcde7d9?source=copy_link)
+- Queena Zheng -- [Week1 Assignment](https://app.notion.com/p/Week1_Assignment-3d3d452073bc80a997eae5f6cd8f3dd0?source=copy_link)
