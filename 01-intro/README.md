@@ -89,3 +89,4 @@ This anthology, edited by Lillian-Yvonne Bertram and Nick Montfort and published
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Bairui Su -- [Box Drawing Writing](https://recho.dev/examples/box-drawing-writing)
+- Ran Xu -- [Diastic Technique] (https://app.notion.com/p/Week-1-3d1c2894908d80c6abf8ff6b15dee544)
