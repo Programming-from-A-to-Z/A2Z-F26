@@ -89,6 +89,7 @@ This anthology, edited by Lillian-Yvonne Bertram and Nick Montfort and published
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Bairui Su -- [Box Drawing Writing](https://recho.dev/examples/box-drawing-writing)
+- Joey Li -- [Word Parity Machine](https://funny-ladybug-a5e.notion.site/A2Z-Week-01-3d637cbce93a80e8a925c0df6fa82bd9?source=copy_link)
 - Jingyi Mao -- https://app.notion.com/p/Learning-machine-3ce0ac200fb080f3aefcc2247e72fd06?source=copy_link  
 - Raven -- [Dinner Haikus](https://app.notion.com/p/A2Z-week-1-assignment-3d562d5041068007aa3affc20dcde7d9?source=copy_link)
 - Seeha Park -- [Assignment 1](https://app.notion.com/p/Assignment-1-3d5ff69c6b358025b055c992526d254f?source=copy_link)
