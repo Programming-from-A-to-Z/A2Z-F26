@@ -96,4 +96,6 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Seeha Park -- [Assignment 1](https://app.notion.com/p/Assignment-1-3d5ff69c6b358025b055c992526d254f?source=copy_link)
 - Queena Zheng -- [Week1 Assignment](https://app.notion.com/p/Week1_Assignment-3d3d452073bc80a997eae5f6cd8f3dd0?source=copy_link)
 - Jua - [The Dying of the Light](https://app.notion.com/p/Week-1-3d66da1aec6280dcb33fc0deca05b847)
+- Tianchen -- [Do you wanna build a snowman](https://comfortable-drink-522.notion.site/Blog-1-3d69066e2c788026bd21f4ddbb266348?source=copy_link)
+- Richard - [Nap Cat](https://editor.p5js.org/ludwig.peking/sketches/ubWunm3mM)
 - Sol - [Virtual Muse](https://app.notion.com/p/solleedesign25/Week-1-Hartman-Virtual-Muse-8-Avenues-3d6513525be881abbf07d37daacc2792?source=copy_link)
