@@ -99,3 +99,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Tianchen -- [Do you wanna build a snowman](https://comfortable-drink-522.notion.site/Blog-1-3d69066e2c788026bd21f4ddbb266348?source=copy_link)
 - Richard - [Nap Cat](https://editor.p5js.org/ludwig.peking/sketches/ubWunm3mM)
 - Amanda -- [Text-to-Music](https://app.notion.com/p/Week-1-Assignment-3d63320cd651805f818cdc2a16fd3159)
+- Sol - [Virtual Muse](https://app.notion.com/p/solleedesign25/Week-1-Hartman-Virtual-Muse-8-Avenues-3d6513525be881abbf07d37daacc2792?source=copy_link)
