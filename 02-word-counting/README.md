@@ -104,10 +104,12 @@ Reflect on your process of word counting and consider the following questions (d
 
 - Bairui Su - [OverFast API](https://overfast-api.tekrop.fr/docs)
 - Tianchen - [Morse Code API](https://apiverve.com/marketplace/morsecode)
+- Yukuan - [Opensubtitles API](https://opensubtitles.stoplight.io/docs/opensubtitles-api/b1eb44d4c8502-open-subtitles-api)
 - Seeha Park - [YouTube Data API ](https://developers.google.com/youtube/v3)
 - Queena Zheng - [The Metropolitan Museum of Art Collection API](https://metmuseum.github.io/?utm_source=chatgpt.com)
 - Joey Li - [The Pokémon API](https://pokeapi.co/api/v2/pokemon/ditto)
 - Richard - [The Kamoji](https://editor.p5js.org/ludwig.peking/sketches/DUi3nw6T8)
+- Jingyi Mao [Art Institute of Chicago API](https://api.artic.edu/api/v1/openapi.json)
 
 ### Add your assignment below via Pull Request
 
@@ -116,6 +118,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Bairui Su - [Tokenization Visualizer](https://observablehq.com/@pearmini/tokenization-visualizer), [Jiggly Wordle](https://wordle.bairui.dev/)
 - Seeha Park - [Loop](https://app.notion.com/p/Assignment-2-3dcff69c6b358030a337e5c677e3d431?source=copy_link)
 - Queena Zheng - [Panda in Words](https://app.notion.com/p/Week2_Panda-in-Words-3dcd452073bc80efa586fae7894985b7?source=copy_link)
+- Tianchen - [Rhapsody on the Goddess of the Luo River](https://comfortable-drink-522.notion.site/Blog-2-3dc9066e2c78806aa7b1cbcd3bfb4624?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
