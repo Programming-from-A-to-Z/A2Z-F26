@@ -108,12 +108,12 @@ Reflect on your process of word counting and consider the following questions (d
 - Seeha Park - [YouTube Data API ](https://developers.google.com/youtube/v3)
 - Queena Zheng - [The Metropolitan Museum of Art Collection API](https://metmuseum.github.io/?utm_source=chatgpt.com)
 - Joey Li - [The Pokémon API](https://pokeapi.co/api/v2/pokemon/ditto)
-- Richard - [The Kamoji](https://editor.p5js.org/ludwig.peking/sketches/DUi3nw6T8)
 - Amanda Zhang- [AI fashion design generator](https://text-till-klad-design.gracestack.se/api/v1/openapi.json)
 - Amanda Zhang - [Datamuse API](https://www.datamuse.com/api/)
 - Raven - [Movie Database](https://developer.themoviedb.org/docs/getting-started)
 - Ran - [Doodle Dataset](https://github.com/googlecreativelab/quickdraw-dataset) 
 - Jingyi Mao [Art Institute of Chicago API](https://api.artic.edu/api/v1/openapi.json)
+- Sol Lee — [MediaWiki Action API (Wiktionary / Wikipedia)](https://www.mediawiki.org/wiki/API:Main_page)
 
 ### Add your assignment below via Pull Request
 
@@ -124,10 +124,12 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Queena Zheng - [Panda in Words](https://app.notion.com/p/Week2_Panda-in-Words-3dcd452073bc80efa586fae7894985b7?source=copy_link)
 - Amanda Zhang- [Lyric in Words](https://app.notion.com/p/Week-1-Assignment-3d63320cd651805f818cdc2a16fd3159)
 - Raven - [Mitski lyric analysis](https://app.notion.com/p/A2Z-week-2-assignment-3dd62d5041068094bbd2d0a5d08e6309?source=copy_link)
-- Jingyi Mao [XIYOUJI](https://editor.p5js.org/jm11454/sketches/Trm7BAxjG)
+- Jingyi Mao [XIYOUJI](https://app.notion.com/p/Week-2-HW-3dd0ac200fb0806e8266fbee64399c00?source=copy_link), [p5.js sketch](https://editor.p5js.org/jm11454/sketches/Trm7BAxjG)
 - Ran [The Little Mermaid](https://app.notion.com/p/Week-2-3d6c2894908d809190d3c92032d978b9)
 - Tianchen - [Rhapsody on the Goddess of the Luo River](https://comfortable-drink-522.notion.site/Blog-2-3dc9066e2c78806aa7b1cbcd3bfb4624?source=copy_link)
 - Yukuan - [MIX](https://app.notion.com/p/Week-2-Word-Counting-3da70ff9c538804bb650fca7f82cc264?source=copy_link)
+- Richard - [The Kamoji](https://editor.p5js.org/ludwig.peking/sketches/DUi3nw6T8)
+- Joey - [Comparison Based on Word Counting](https://funny-ladybug-a5e.notion.site/A2Z-Week-02-3dd37cbce93a8023a2b2c013c00fb091?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
