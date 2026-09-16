@@ -114,6 +114,7 @@ Reflect on your process of word counting and consider the following questions (d
 - Raven - [Movie Database](https://developer.themoviedb.org/docs/getting-started)
 - Ran - [Doodle Dataset](https://github.com/googlecreativelab/quickdraw-dataset) 
 - Jingyi Mao [Art Institute of Chicago API](https://api.artic.edu/api/v1/openapi.json)
+- Sol Lee — [MediaWiki Action API (Wiktionary / Wikipedia)](https://www.mediawiki.org/wiki/API:Main_page)
 
 ### Add your assignment below via Pull Request
 
