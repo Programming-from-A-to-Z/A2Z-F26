@@ -109,6 +109,7 @@ Reflect on your process of word counting and consider the following questions (d
 - Queena Zheng - [The Metropolitan Museum of Art Collection API](https://metmuseum.github.io/?utm_source=chatgpt.com)
 - Joey Li - [The Pokémon API](https://pokeapi.co/api/v2/pokemon/ditto)
 - Raven - [Movie Database](https://developer.themoviedb.org/docs/getting-started)
+- Ran - [Doodle Dataset](https://github.com/googlecreativelab/quickdraw-dataset) 
 - Jingyi Mao [Art Institute of Chicago API](https://api.artic.edu/api/v1/openapi.json)
 
 ### Add your assignment below via Pull Request
@@ -119,6 +120,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Seeha Park - [Loop](https://app.notion.com/p/Assignment-2-3dcff69c6b358030a337e5c677e3d431?source=copy_link)
 - Queena Zheng - [Panda in Words](https://app.notion.com/p/Week2_Panda-in-Words-3dcd452073bc80efa586fae7894985b7?source=copy_link)
 - Raven - [Mitski lyric analysis](https://app.notion.com/p/A2Z-week-2-assignment-3dd62d5041068094bbd2d0a5d08e6309?source=copy_link)
+- Jingyi Mao [XIYOUJI]https://editor.p5js.org/jm11454/sketches/Trm7BAxjG 
+- Ran [The Little Mermaid](https://app.notion.com/p/Week-2-3d6c2894908d809190d3c92032d978b9)
 - Tianchen - [Rhapsody on the Goddess of the Luo River](https://comfortable-drink-522.notion.site/Blog-2-3dc9066e2c78806aa7b1cbcd3bfb4624?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
