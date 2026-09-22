@@ -78,6 +78,7 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [title](url)
+- Seeha - [Redefine](https://app.notion.com/p/Assignment-3_Redefine-3dcff69c6b358029b705dfb325f9fe40?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
