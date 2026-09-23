@@ -77,7 +77,7 @@
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
-- Name - [title](url)
+- Ran - [poke_api](https://app.notion.com/p/Week-3-3e4c2894908d80ddaa98e60296ed58e1)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
