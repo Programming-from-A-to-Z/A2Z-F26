@@ -77,8 +77,10 @@
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
-- Name - [title](url)
 - Queena - [Message From Space](https://app.notion.com/p/Week3_Message-From-Space-3e3d452073bc807cbaa4e608370f647f?source=copy_link)
+- Tianchen - [Bored API](https://comfortable-drink-522.notion.site/Blog3-3e29066e2c7880a08560f84714be96c0?source=copy_link)
+- Jua - [NYC Weather](https://app.notion.com/p/Week-3-3e46da1aec62809db2f2fd75e4267823)
+- Seeha - [Redefine](https://app.notion.com/p/Assignment-3_Redefine-3dcff69c6b358029b705dfb325f9fe40?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
