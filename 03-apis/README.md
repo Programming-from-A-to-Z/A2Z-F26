@@ -78,6 +78,7 @@
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [title](url)
+- Tianchen - [Bored API](https://comfortable-drink-522.notion.site/Blog3-3e29066e2c7880a08560f84714be96c0?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
