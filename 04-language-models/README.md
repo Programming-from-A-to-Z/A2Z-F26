@@ -1,6 +1,6 @@
 # Language Models
 
-## [Language Model slides](https://docs.google.com/presentation/d/1M8zwy7yKA7G6EzSYS8qnYRNuQ8KJkoo-M5YG6OM4vKk/edit?usp=sharing)
+## [Language Model slides](https://docs.google.com/presentation/d/16fGYRkMxD7H2nA1Eh_br_VwkrAVq7VnL7M579XkZ150/edit?usp=sharing)
 
 ## Weighted Selection / Sampling
 
