@@ -90,7 +90,7 @@ It is not required to write any new code for this assignment, however I'll inclu
 
 - Design a webpage that displays the output of a markov generator a la [Allison Parrish's ITP course creator](http://static.decontextualize.com/toys/next_semester).
 - Create a bot that generates its output based on a markov chain.
-- Use a markov chain on something other than text. Record your own sequence of daily habits. Try musical notes. Could colors or shapes be generated with a markov chain? What else? You can find examples for [musical markov chains](https://luisaph.github.io/the-code-of-music-2018/#Markov) from Luisa Pereira's [Code of Music materials](https://luisaph.github.io/the-code-of-music-2018/).
+- Use a markov chain on something other than text. Record your own sequence of daily habits. Try musical notes. Could colors or shapes be generated with a markov chain? What else? You can find examples for musical markov chain ([Rhythm](https://editor.p5js.org/luisa/sketches/ebAaQI3Y), [Melody](https://editor.p5js.org/luisa/sketches/jnu5xAOPM)) from Luisa Pereira's [Code of Music materials](https://luisapereira.notion.site/The-Code-of-Music-Syllabus-ITP-Spring-2025-1195e8fee6788088afebf04ad8aa2266#1dc5e8fee67880acb98df716f6a4a142).
 - Thinking back to [the word counting material](https://github.com/shiffman/A2Z-F26/tree/main/02-word-counting), visualize n-gram frequencies and/or markov probabilities.
 
 ### Context-Free Grammars
@@ -104,7 +104,7 @@ Getting results from a context-free-grammar can be tricky. Short and sweet, high
 - An ITP project idea generator.
 - A knock knock joke generator.
 
-Something you might consider is pulling the "terminal" words for your grammar from an API or other data source. You are also welcome to explore generative visual art basing your exercise off of the L-System material described above. Or what else can you generate from a Context-Free Grammar? Music?
+Something you might consider is pulling the "terminal" words for your grammar from an API or other data source. You are also welcome to explore generative visual art basing your exercise off of the L-System material described above. Or what else can you generate from a Context-Free Grammar? Music? ([L System Melody](https://editor.p5js.org/luisa/sketches/rJAW2t4pX) and [Turtle Melody](https://editor.p5js.org/luisa/sketches/H11ZbqNa7) from Luisa Pereira's [Code of Music materials](https://luisapereira.notion.site/The-Code-of-Music-Syllabus-ITP-Spring-2025-1195e8fee6788088afebf04ad8aa2266#1dc5e8fee67880acb98df716f6a4a142))
 
 ### Large Language Models (LLMs)
 
