@@ -3,16 +3,29 @@
 ## Bot Code of Conduct
 
 - 🌈 [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct)
-- Let's talk about bots that speak!
+- 🔗 [EU AI Act, Article 50: Transparency Obligations for Providers and Deployers of Certain AI Systems](https://artificialintelligenceact.eu/article/50/) (bots have to say they're bots, from August 2026)
+
+## Chatbot History
+
+- 📚 [Computing Machinery and Intelligence](https://doi.org/10.1093/mind/LIX.236.433) by Alan Turing (1950)
+- 📚 [ELIZA—A Computer Program for the Study of Natural Language Communication Between Man and Machine](https://dl.acm.org/doi/10.1145/365153.365168) by Joseph Weizenbaum (1966)
+- 🔗 [Try ELIZA](https://anthay.github.io/eliza.html), Anthony Hay's recreation running the original 1966 DOCTOR script ([source + script](https://github.com/anthay/ELIZA))
+- 🔗 [RFC 439: PARRY Encounters the DOCTOR](https://www.rfc-editor.org/rfc/rfc439) (1973), two chatbots talking over the ARPANET
+- 📚 [Chatterbots, TinyMUDs, and the Turing Test](https://cdn.aaai.org/AAAI/1994/AAAI94-003.pdf) by Michael Mauldin (1994), where "chatterbot" comes from
+- 📚 [SmarterChild: A Chatbot Buddy from 2001](https://computerhistory.org/blog/smarterchild-a-chatbot-buddy-from-2001/) (Computer History Museum)
+- 📚 [My Conversation with "Eugene Goostman"](https://scottaaronson.blog/?p=1858) by Scott Aaronson (2014)
+- 📚 [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) by Oriol Vinyals & Quoc Le (2015)
+- 📚 [Learning from Tay's introduction](https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/) (Microsoft, 2016)
+- 📚 [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT, 2022), the recipe behind ChatGPT
+- 📚 [Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674) by Cameron Jones & Benjamin Bergen (2025), in which ELIZA beats GPT-4o
 
 ## ChatBots
 
-- 📈 [ChatBot Slides](https://docs.google.com/presentation/d/1v643tW0c6bHn8fDfh2C2ouL5IVqnpqqKBq8QBI8X-zg/edit?usp=sharing)
 - 🔗 [RiveScript](https://www.rivescript.com/)
 - 💻 [RiveScript example: Say Banana](https://editor.p5js.org/a2zitp/sketches/wMo5oiyVe)
+- 💻 [RiveScript p5.js Number Guessing Chatbot](https://editor.p5js.org/a2zitp/sketches/xgwLaXYvm)
 - 🚨 [RiveScript video tutorial](https://www.youtube.com/watch?v=wf8w1BJb9Xc)
 - 🍿 [RiveScript + p5.js video tutorial](https://www.youtube.com/watch?v=zGe1m_bLOFk)
-- 💻 [RiveScript p5.js Number Guessing Chatbot](https://editor.p5js.org/a2zitp/sketches/xgwLaXYvm)
 
 ## Node.js
 
@@ -22,23 +35,24 @@
 - 🍿 [What is Node.js? - (Part of an older Twitter Bot Tutorial](https://youtu.be/RF5_MPSNAtU)
 - 🍿 [Server-side with Node.js - Working with Data and APIs in JavaScript](https://youtu.be/wxbQP1LMZsw?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
 
-## Twitter API
+## Twitter API (deprecated)
 
-- 📈 [TwitterBot Slides](https://docs.google.com/presentation/d/1ar78vNdfH5H8rlhVk9LJTvnbG1W8VGX9m77qv2hPW24/edit?usp=sharing)
-- 💻 [Twitter Example Code (tested in 2024, features limited, see README for more)](https://github.com/Programming-from-A-to-Z/Twitter-Bots-Maybe)
-- [node-twitter-api-v2 package](https://github.com/PLhery/node-twitter-api-v2)
+- 💻 [Twitter Example Code](https://github.com/Programming-from-A-to-Z/Twitter-Bots-Maybe) - only works now with a paid account
+- 🔗 [node-twitter-api-v2 package](https://github.com/PLhery/node-twitter-api-v2)
 
-## BlueSky API
+## Bluesky API
 
-- 💻 [Blue Example Code](https://github.com/Programming-from-A-to-Z/Blue-Sky-Bots)
-- [AtProto API Docs](https://github.com/bluesky-social/atproto/blob/main/packages/api/README.md)
+- 💻 [Bluesky Example Code](https://github.com/Programming-from-A-to-Z/Blue-Sky-Bots)
+- 📋 [AT Protocol docs](https://atproto.com/docs)
+- 📋 [Bluesky developer docs](https://bsky.network/docs/protocol-services)
+- 📋 [`@atproto/api` on npm](https://www.npmjs.com/package/@atproto/api)
 
 ## Discord API
 
-- 💻 [Discord Bot Example code and README steps to follow](https://github.com/Programming-from-A-to-Z/Discord-Bot-Examples)
+- 💻 [Discord Bot Example code and README steps to follow](https://github.com/Programming-from- A-to-Z/Discord-Bot-Examples)
 - 🚨 [Coding a Discord Bot](https://youtu.be/AvQcTjB3gPg)
 - 📕 [discord.js guide](https://discordjs.guide/)
-- 📋 [discord.js docs](https://discord.js.org/docs/packages/discord.js)
+- 📋 [discord.js docs](https://discord.js.org/docs)
 
 ## LLMs
 
@@ -68,20 +82,22 @@
 - 🔗 [Kokoro Web (browser-based TTS)](https://kokoroweb.app/)
 - 📚 [Web Speech API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
 - 📚 [p5.speech library for p5.js](https://idmnyu.github.io/p5.js-speech/)
-- [EU Article 50: Transparency Obligations for Providers and Deployers of Certain AI Systems](https://artificialintelligenceact.eu/article/50/)
 
 ## Reading
 
 - 📕 [Bots: A definition and some historical threads](https://medium.com/datasociety-points/bots-a-definition-and-some-historical-threads-47738c8ab1ce) by Allison Parrish
 - 📕 [How to Make a Bot That Isn't Racist](https://www.vice.com/en/article/mg7g3y/how-to-make-a-not-racist-bot)
 - 📕 [Conversations with Bina48](https://www.stephaniedinkins.com/conversations-with-bina48.html) by Stephanie Dinkins
-- 📚 [Some Strategies of Bot Poetics](https://harrygiles.org/2016/04/06/some-strategies-of-bot-poetics/)
-- 📚 [Queer Your Bots: The Bot Builder Roundtable](http://www.autostraddle.com/queer-your-bots-the-bot-builder-roundtable-333806/)
+- 📚 [Some Strategies of Bot Poetics](https://harryjosephine.com/2016/04/06/some-strategies-of-bot-poetics/) by Harry Josephine Giles
+- 📚 [Queer Your Bots: The Bot Builder Roundtable](https://www.autostraddle.com/queer-your-bots-the-bot-builder-roundtable-333806/)
+- 📚 [Bots Should Punch Up](https://www.crummy.com/2013/11/27/0) by Leonard Richardson
 - 📚 [12 Weird, Excellent Twitter Bots Chosen by Twitter’s Best Bot-Makers](http://nymag.com/following/2015/11/12-weirdest-funniest-smartest-twitter-bots.html)
+- 🔗 [The Eureka](https://poetrybynumbers.exeter.ac.uk/eureka/), John Clark's 1845 Latin verse machine (Poetry by Numbers, University of Exeter)
+- 🔗 [Tracery](https://tracery.io/) + [Blue Bots, Done Quick](https://bluebotsdonequick.com/) for grammar-based bots with no server
 
 ## Bot Project, Due Wednesday October 21
 
-Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](#discord-api), [Twitter](#twitter-api), [BlueSky](#bluesky-api), [RiveScript + p5.js](#chatbots), [LLMs](#llms), and [voice models](#voice), but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
+Create a bot! For the purposes of this class, I'm defining a bot as "a computer program which conducts a conversation via auditory or textual methods." This can be applied very broadly, that conversation can be one-sided, two-sided, multi-sided, and it's optional whether there are humans involved at all! You may choose any platform for the course. Examples are provided above for [Discord](#discord-api), ~~[Twitter](#twitter-api)~~, [Bluesky](#bluesky-api), [RiveScript + p5.js](#chatbots), [LLMs](#llms), and [voice models](#voice), but you are welcome to experiment with any social media platform, service, conversational interface, hardware, website, sms system, etc. as you see fit!
 
 Document the process of creating your bot and running your bot in a blog post. Include sample interactions / posts from your bot with screenshots,etc.
 
