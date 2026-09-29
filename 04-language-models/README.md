@@ -115,7 +115,9 @@ Experiment with running a small language model locally in the browser using [tra
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Bairui SU - [Character-Level Markov Generator Visualizer](https://observablehq.com/@pearmini/character-level-markov-generator-visualizer), [Hello Tracery!](https://observablehq.com/@pearmini/hello-tracery)
-  
+- Seeha - [Sonnet](https://app.notion.com/p/Assignment-4_Sonnet-3e4ff69c6b3580b3afa8dcfedd274377?source=copy_link), [p5.js sketch](https://editor.p5js.org/seeha/full/kJXXNktCg)
+- Joey - [Visual Markov](https://tattered-aluminum-b15.notion.site/A2Z-Week-04-3eafe019f0a5804e9c85f7688fec12f0?source=copy_link)
+
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
