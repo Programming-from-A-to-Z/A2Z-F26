@@ -117,6 +117,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Bairui SU - [Character-Level Markov Generator Visualizer](https://observablehq.com/@pearmini/character-level-markov-generator-visualizer), [Hello Tracery!](https://observablehq.com/@pearmini/hello-tracery)
 - Seeha - [Sonnet](https://app.notion.com/p/Assignment-4_Sonnet-3e4ff69c6b3580b3afa8dcfedd274377?source=copy_link), [p5.js sketch](https://editor.p5js.org/seeha/full/kJXXNktCg)
 - Joey - [Visual Markov](https://tattered-aluminum-b15.notion.site/A2Z-Week-04-3eafe019f0a5804e9c85f7688fec12f0?source=copy_link)
+- Joey - [Visual Markov](https://tattered-aluminum-b15.notion.site/A2Z-Week-04-3eafe019f0a5804e9c85f7688fec12f0?source=copy_link)
+- Kwan - [Overdue Fine Generator](https://app.notion.com/p/Week-4-Overdue-Fine-Generator-3e970ff9c538809d9993e0856ddce9e4?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
