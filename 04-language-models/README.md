@@ -122,6 +122,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Kwan - [Overdue Fine Generator](https://app.notion.com/p/Week-4-Overdue-Fine-Generator-3e970ff9c538809d9993e0856ddce9e4?source=copy_link)
 - Queena - [Space Diary](https://app.notion.com/p/Week4_Space-Diary-3ead452073bc803db1d0c73527137a04?source=copy_link)
 - Ran - [Tile & Order Generator](https://app.notion.com/p/Week-4-3eac2894908d805aa930de9ff985bb5a?)
+- Raven - [New Club Generator](https://app.notion.com/p/A2Z-week-4-assignment-3e962d504106806b860ec8e3ee67bf45?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
