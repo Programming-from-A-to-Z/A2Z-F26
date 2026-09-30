@@ -126,7 +126,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Jingyi [Markov Chain: He would be a hero and Brains—but scrambled ](https://app.notion.com/p/Week-4-3ea0ac200fb080cf8a5fd6341c0aec72)
 - Ran - [Tile & Order Generator](https://app.notion.com/p/Week-4-3eac2894908d805aa930de9ff985bb5a?)
 - Raven - [New Club Generator](https://app.notion.com/p/A2Z-week-4-assignment-3e962d504106806b860ec8e3ee67bf45?source=copy_link)
-
+- Sammy - [Screen Time][https://gilded-hydrogen-a46.notion.site/Assignment-4-52888751f48282ceb5f58146167dfe0d?source=copy_link]
 ## Emoji Key for Video Tutorials, Readings, and more
 
 - 🚨 Watch this video tutorial! (this is technical info needed for the examples). Of course if you alreaddy know this material, you can skip.
