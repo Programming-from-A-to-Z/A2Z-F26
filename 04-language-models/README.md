@@ -121,6 +121,8 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Jua - [Markov Chain: Mixing Demian and Romeo and Juliet](https://app.notion.com/p/Week-4-3ea6da1aec6280d285c0fcbdff149ee7)
 - Kwan - [Overdue Fine Generator](https://app.notion.com/p/Week-4-Overdue-Fine-Generator-3e970ff9c538809d9993e0856ddce9e4?source=copy_link)
 - Queena - [Space Diary](https://app.notion.com/p/Week4_Space-Diary-3ead452073bc803db1d0c73527137a04?source=copy_link)
+- Amanda - [Markov Chain：Greeting bot](https://app.notion.com/p/Week-4-Assignment-3e93320cd651800dbac2f5f2adaeaf90?source=copy_link)
+
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
