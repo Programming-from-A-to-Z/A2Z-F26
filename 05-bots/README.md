@@ -1,5 +1,7 @@
 # Bots!!
 
+* [Bot Bot Bot Slides](https://docs.google.com/presentation/d/1CxfzfnSdv41Wd7NiO5HVbVuA_VWKK28N9awwi7djx4w/edit?usp=sharing)
+
 ## Bot Code of Conduct
 
 - 🌈 [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of-Conduct)
