@@ -13,13 +13,13 @@
 - 📚 [ELIZA—A Computer Program for the Study of Natural Language Communication Between Man and Machine](https://dl.acm.org/doi/10.1145/365153.365168) by Joseph Weizenbaum (1966)
 - 🔗 [Try ELIZA](https://anthay.github.io/eliza.html), Anthony Hay's recreation running the original 1966 DOCTOR script ([source + script](https://github.com/anthay/ELIZA))
 - 🔗 [RFC 439: PARRY Encounters the DOCTOR](https://www.rfc-editor.org/rfc/rfc439) (1973), two chatbots talking over the ARPANET
-- 📚 [Chatterbots, TinyMUDs, and the Turing Test](https://cdn.aaai.org/AAAI/1994/AAAI94-003.pdf) by Michael Mauldin (1994), where "chatterbot" comes from
+- 📚 [Chatterbots, TinyMUDs, and the Turing Test](https://cdn.aaai.org/AAAI/1994/AAAI94-003.pdf) by Michael Mauldin (1994) "chatterbot" origins
 - 📚 [SmarterChild: A Chatbot Buddy from 2001](https://computerhistory.org/blog/smarterchild-a-chatbot-buddy-from-2001/) (Computer History Museum)
 - 📚 [My Conversation with "Eugene Goostman"](https://scottaaronson.blog/?p=1858) by Scott Aaronson (2014)
 - 📚 [A Neural Conversational Model](https://arxiv.org/abs/1506.05869) by Oriol Vinyals & Quoc Le (2015)
 - 📚 [Learning from Tay's introduction](https://blogs.microsoft.com/blog/2016/03/25/learning-tays-introduction/) (Microsoft, 2016)
-- 📚 [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT, 2022), the recipe behind ChatGPT
-- 📚 [Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674) by Cameron Jones & Benjamin Bergen (2025), in which ELIZA beats GPT-4o
+- 📚 [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT, 2022)
+- 📚 [Large Language Models Pass the Turing Test](https://arxiv.org/abs/2503.23674) by Cameron Jones & Benjamin Bergen (2025)
 
 ## ChatBots
 
