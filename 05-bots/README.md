@@ -119,6 +119,7 @@ The [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [project title](url)
+- Seeha - [Sijo Simplified](https://app.notion.com/p/Bot-Project_SijoSimplified-3f2ff69c6b3580a79023cfdc11d79b31?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
