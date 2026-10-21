@@ -119,6 +119,7 @@ The [Bot Code of Conduct](https://github.com/Programming-from-A-to-Z/Bot-Code-of
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Name - [project title](url)
+- Tianchen - [Maybe You Will Meet...](https://comfortable-drink-522.notion.site/Blog-5-3f29066e2c7880b592f1f52ef5ef00b4?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
