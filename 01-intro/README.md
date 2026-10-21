@@ -100,3 +100,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Richard - [Nap Cat](https://editor.p5js.org/ludwig.peking/sketches/ubWunm3mM)
 - Sol - [Virtual Muse](https://app.notion.com/p/solleedesign25/Week-1-Hartman-Virtual-Muse-8-Avenues-3d6513525be881abbf07d37daacc2792?source=copy_link)
 - Amanda Zhang - [Text-to-Music](https://app.notion.com/p/Week-1-Assignment-3d63320cd651805f818cdc2a16fd3159source=copy_link)
+- Sammy Oge - [‘S’ is supreme also, most significant](https://app.notion.com/p/Assignment-1-66188751f482831fa59e01cc008f55f7?v=ccc88751f482820f88e48819eedbadfe&source=copy_link)
