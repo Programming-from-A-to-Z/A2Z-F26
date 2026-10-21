@@ -129,6 +129,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Ran - [emoji guess bot](https://app.notion.com/p/Week-6-3f8c2894908d805fbf62c4d7160797d6)
 - Kwan - [CAT](https://app.notion.com/p/kkkwan-The-Bot-40070ff9c53880349de9e2fd0ddbc258?source=copy_link)
 - Raven - [metalpaw: one of us](https://www.notion.so/metalpaw-discord-user-roleplay-3fe62d504106802b91e6dbbbb40ef78f?source=copy_link)
+- Jingyi - [video editing assistant] https://jingyi-1013.github.io/video-editing-assistant/ 
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
