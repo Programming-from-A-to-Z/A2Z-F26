@@ -1,6 +1,6 @@
 # Language Models
 
-- LLM / transformer slides
+- [LLM / transformer slides](https://docs.google.com/presentation/d/1DRHrmNcUyKRCtAAQY7M-xJVd-EyyjRkM_3u-jmdWyYE/edit?usp=sharing)
 
 ## What is a Neural Network?
 
