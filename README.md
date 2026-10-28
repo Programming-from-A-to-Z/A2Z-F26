@@ -24,9 +24,9 @@
 
 ### Week 9 - [ML: Embeddings](07-embeddings), 11/4
 
-### Week 10 - Individual Meetings, 11/11
+### Week 10 - [Fine-tuning](06-llms), 11/11
 
-### Week 11 - [Final Project Proposals](final) + [Fine-tuning](06-llms), 11/18
+### Week 11 - [Final Project Proposals](final) + [Agents & MCP](08-mcp), 11/18
 
 ### Week 12 - [Final Project Proposals](final) + [Agents & MCP](08-mcp), 11/25
 
