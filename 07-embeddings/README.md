@@ -1,6 +1,6 @@
 # Embeddings
 
-- Embeddings slides
+- [Embeddings slides](https://docs.google.com/presentation/d/1c-oEZ5KjtT4V1Akni8uvJcDUavLQ0jkbzbL_LJoY9d0/edit?usp=sharing)
 
 ## Word Vectors and the Universal Sentence Encoder
 
