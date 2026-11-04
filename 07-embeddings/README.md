@@ -51,6 +51,7 @@
 
 - 📚 [2021 CLIP paper Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 - 💻 [Simple Text Semantic Search with 10 images](https://editor.p5js.org/a2zitp/sketches/1i-ne5nPh) - uses EmbeddingGemma 2
+- 💻 [Simple Text Semantic Search with 10 images (CLIP)](https://editor.p5js.org/a2zitp/sketches/C4Tq76UOh) - the same sketch with CLIP
 - 💻 [Simple Image Semantic Search with 10 images](https://editor.p5js.org/a2zitp/sketches/fTb39Ieok) - webcam, uses CLIP
 - 💻 [Sound Labels](https://editor.p5js.org/a2zitp/sketches/pLUsTE3Kp) - record a sound and compare it with text labels (EmbeddingGemma 2)
 - 💻 [Processing dataset to create Embeddings Database with node.js](https://github.com/shiffman/create-embeddings-database)
@@ -69,4 +70,4 @@
 
 ## Assignment
 
-- 🎨 [Prepare to present a final project proposal](/final/proposals.md).
+- TBD
