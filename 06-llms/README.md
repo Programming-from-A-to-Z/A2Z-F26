@@ -123,3 +123,4 @@ Reasoning models are a flavor of LLM that are trained (fine-tuned) to solve mult
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - name [post title](url)
+- Joey [Infinite Language Loop](https://tattered-aluminum-b15.notion.site/A2Z-week-06-40efe019f0a58040a9a0f953ff300ea7?source=copy_link)
