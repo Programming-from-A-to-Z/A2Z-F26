@@ -126,4 +126,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Tianchen [Compare TeenyTinyGPT.js and Markov Chain](https://comfortable-drink-522.notion.site/Blog-7-40e9066e2c7880f48f08dd628aa0665b?source=copy_link)
 - Joey [Infinite Language Loop](https://tattered-aluminum-b15.notion.site/A2Z-week-06-40efe019f0a58040a9a0f953ff300ea7?source=copy_link)
 - Kwan [llm](https://app.notion.com/p/YukuanGe-LLMs-40d70ff9c538803ca877d785f8d6fda5?source=copy_link)
-- Jingyi - [TeenyTinyGPT] https://app.notion.com/p/Week-6-LLM-40e0ac200fb08013b39ae904fa4d9e03?showMoveTo=true&saveParent=true 
+- Jingyi - [TeenyTinyGPT](https://app.notion.com/p/Week-6-LLM-40e0ac200fb08013b39ae904fa4d9e03?showMoveTo=true&saveParent=true)
