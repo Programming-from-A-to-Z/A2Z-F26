@@ -81,9 +81,13 @@
 - 📋 [Ollama API Docs](https://docs.ollama.com/api)
 - 💻 [LMStudio](https://lmstudio.ai/)
 
+### Tokenization
+
+- 💻 [Byte Pair Encoding](https://github.com/Programming-from-A-to-Z/BPE-Tokenizer) - watch a tokenizer learn its vocabulary one merge at a time, in plain JavaScript and p5.js
+
 ### GPT in a browser!
 
-- 💻 [TinyGPT.js](https://github.com/Programming-from-A-to-Z/pre-training-transformer-js) - this is an experiment I made that trains a tiny GPT model using TensorFlow.js in the browser.
+- 💻 [TeenyTinyGPT.js](https://github.com/Programming-from-A-to-Z/TeenyTinyGPT.js) - this is an experiment I made that trains a tiny GPT model using TensorFlow.js in the browser. It uses BPE tokens (pieces of words), or one token per character if you set `vocabSize` to 65.
 
 ### Nanochat
 
@@ -110,7 +114,7 @@ Reasoning models are a flavor of LLM that are trained (fine-tuned) to solve mult
 - Experiment with prompting a large language model in some way other than a commercial interface (e.g. ChatGPT, Claude, etc.) and document the results in a blog post. Consider how working with an LLM compares to generating text from the other methods including but not limited to markov chains and context free grammars. Here are some options:
   - Run [any of the code examples above](#code-examples-and-implementations) Try adjusting the prompts, interaction, or visual design.
   - Try a variety of models locally with [Ollama](https://ollama.ai/) or [LMStudio](https://lmstudio.ai/). Compare and contrast different models.
-  - Pre-train a tiny model on a text of your choosing with [TinyGPT.js](https://github.com/Programming-from-A-to-Z/pre-training-transformer-js) or [Language Model Builder](https://languagemodelbuilder.com/), and compare what it writes with a Markov chain trained on the same text.
+  - Pre-train a tiny model on a text of your choosing with [TeenyTinyGPT.js](https://github.com/Programming-from-A-to-Z/TeenyTinyGPT.js) or [Language Model Builder](https://languagemodelbuilder.com/), and compare what it writes with a Markov chain trained on the same text.
   - Can you connect an LLM to a Discord Bot or other platform?
   - Can you break an LLM or subvert expectations and use it in a way that it was not intended?
 

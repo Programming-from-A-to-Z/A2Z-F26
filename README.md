@@ -48,7 +48,7 @@ Your success in this class is important to me. Everyone learns differently and r
 
 ## Bookable Office Hours
 
-You all enter this classroom with different sets of skills. My office hours are open to you as an extension of the classroom. If you can’t make it to the scheduled times, please let me know and I'll be very happy to accomondate alternate times. There’s no incorrect way to approach office hours, and they are, by default, informal. I hope to work closely with all of you to cultivate a space of openness and mutual support. I welcome you to contact me outside of class and office hours through email.
+You all enter this classroom with different sets of skills. My office hours are open to you as an extension of the classroom. If you can’t make it to the scheduled times, please let me know and I'll be very happy to accommodate alternate times. There’s no incorrect way to approach office hours, and they are, by default, informal. I hope to work closely with all of you to cultivate a space of openness and mutual support. I welcome you to contact me outside of class and office hours through email.
 
 ## Course Objectives
 

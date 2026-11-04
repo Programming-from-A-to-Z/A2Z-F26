@@ -26,7 +26,7 @@ After reviewing the [Final Project Overview](README.md), create a final project 
 
 ## Presenter tips and guidelines
 
-1. Give a clear and specific statement of what you’re trying to achieve. State the minimal amount of information: Where ideally would this project be experienced and who is your audience? (Be specific! Avoid "everyone" or "anyone" at the audience.)
+1. Give a clear and specific statement of what you’re trying to achieve. State the minimal amount of information: Where ideally would this project be experienced and who is your audience? (Be specific! Avoid "everyone" or "anyone" as the audience.)
 2. You don't need to analyze or interpret your work, try presenting a factual account of what you intend to build.
 3. Are there technical hurdles that you don't know how to approach? Ask! We can use the time to discuss your proposal with tips on how to get started.
 4. What do you want to get out of the feedback? Prepare questions that get at specific aspects of your project you’re unsure of.
