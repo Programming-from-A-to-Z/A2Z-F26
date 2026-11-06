@@ -127,4 +127,5 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Joey [Infinite Language Loop](https://tattered-aluminum-b15.notion.site/A2Z-week-06-40efe019f0a58040a9a0f953ff300ea7?source=copy_link)
 - Kwan [llm](https://app.notion.com/p/YukuanGe-LLMs-40d70ff9c538803ca877d785f8d6fda5?source=copy_link)
 - Jingyi - [TeenyTinyGPT](https://app.notion.com/p/Week-6-LLM-40e0ac200fb08013b39ae904fa4d9e03?showMoveTo=true&saveParent=true)
+- Amanda - [Restaurant agent](https://app.notion.com/p/A-restaurant-recommend-agent-4073320cd651800e903bd8e978008562?source=copy_link)
 - Queena - [Interpret Animal Behavior](https://app.notion.com/p/Week6_LLM-Interpret-Animal-Behavior-40cd452073bc806f8c66f6c276c391c2?source=copy_link)
