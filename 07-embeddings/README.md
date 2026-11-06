@@ -70,4 +70,25 @@
 
 ## Assignment
 
-- TBD
+- Experiment with embeddings using your own data and document the results in a blog post. Consider the following questions:
+  - What does the model consider "similar"? Where does it match your intuition and what surprises you?
+  - Consider the text or images that the model was trained on and how that shapes what ends up being similar?
+  - What do embeddings not capture about text, images, or sound?
+- If you're curious about how embeddings pick up stereotypes and biases from training data, I would encourage you to read [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520) by Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, and Adam Kalai (2016).
+
+_(It is not required to write any new code for this assignment. You are welcome to run one or more of the [code examples above](#code-examples) with your own data. For the p5.js sketches, duplicate the sketch in the web editor and swap in your own text file, sentences, images, or labels.)_
+
+Here are some options:
+
+- Replace `answers.txt` in [Semantic Search Text](https://editor.p5js.org/a2zitp/sketches/5XQmxHdnS)
+- Cluster your own text with [Animated UMAP + Clustering sentence embeddings](https://editor.p5js.org/a2zitp/sketches/1SLvJ6nxC) (replace `p5.txt`). (You can use the [UMAP parameters sketch](https://editor.p5js.org/a2zitp/sketches/J93s6HCJ3) to get a feel for `nNeighbors` and `minDist`).
+- Replace `syllabus.txt` in [Ask the Syllabus](https://editor.p5js.org/a2zitp/sketches/nv8ipwrM1) or use your own text with the [Node.js + Ollama RAG Example](https://github.com/Programming-from-A-to-Z/Ollama-Context-RAG). Consider how you are "chunking" the text.
+- Search images: build out `images.json` and compare [EmbeddingGemma 2](https://editor.p5js.org/a2zitp/sketches/1i-ne5nPh) and [CLIP](https://editor.p5js.org/a2zitp/sketches/C4Tq76UOh) on the same searches.
+- Try your own labels with [Sound Labels](https://editor.p5js.org/a2zitp/sketches/pLUsTE3Kp) or [Zero Shot Image Classification](https://editor.p5js.org/a2zitp/sketches/GRyILD0L8).
+- Train [TeenyTinyEmbedder](https://github.com/Programming-from-A-to-Z/TeenyTinyEmbedder.js) on your own text and compare the results with [Semantic Search Text](https://editor.p5js.org/a2zitp/sketches/5XQmxHdnS) on the same text!
+
+## Add your assignment below via Pull Request
+
+_(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
+
+- name [post title](url)
