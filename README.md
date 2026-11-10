@@ -24,11 +24,11 @@
 
 ### Week 9 - [ML: Embeddings](07-embeddings), 11/4
 
-### Week 10 - [ML: Fine-tuning](06-llms), 11/11
+### Week 10 - [ML: Fine-tuning](08-fine-tuning), 11/11
 
-### Week 11 - [Final Project Proposals](final) + [Agents & MCP](08-mcp), 11/18
+### Week 11 - [Final Project Proposals](final) + [Agents & MCP](09-mcp-agents), 11/18
 
-### Week 12 - [Final Project Proposals](final) + [Agents & MCP](08-mcp), 11/25
+### Week 12 - [Final Project Proposals](final) + [Agents & MCP](09-mcp-agents), 11/25
 
 ### Week 13 - [Final Project in Progress](final), 12/2
 
