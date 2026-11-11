@@ -129,3 +129,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Jingyi - [TeenyTinyGPT](https://app.notion.com/p/Week-6-LLM-40e0ac200fb08013b39ae904fa4d9e03?showMoveTo=true&saveParent=true)
 - Amanda - [Restaurant agent](https://app.notion.com/p/A-restaurant-recommend-agent-4073320cd651800e903bd8e978008562?source=copy_link)
 - Queena - [Interpret Animal Behavior](https://app.notion.com/p/Week6_LLM-Interpret-Animal-Behavior-40cd452073bc806f8c66f6c276c391c2?source=copy_link)
+- Raven - [language model builder test](https://app.notion.com/p/A2Z-LLM-Language-Model-Builder-41062d50410680a1bfcaed69f9859bdb?source=copy_link)
