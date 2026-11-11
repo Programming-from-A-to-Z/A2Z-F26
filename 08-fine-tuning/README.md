@@ -61,7 +61,7 @@ Every conversation should include the same system prompt (and then you should al
 
 ### Post-training in the browser
 
-- 💻 [TeenyTinyInstruct](https://github.com/Programming-from-A-to-Z/TeenyTinyInstruct.js) - post-train TeenyTinyGPT (pre-trained on Shakespeare) on a conversation dataset from Hugging Face.
+- 💻 [TeenyTinyInstruct](https://github.com/Programming-from-A-to-Z/TeenyTinyInstruct.js) - pre-train a TeenyTinyGPT on stories, then press a button and post-train it on conversations.
 
 ### Fine-tune SmolLM2
 
