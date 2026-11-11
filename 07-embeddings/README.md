@@ -92,3 +92,4 @@ Here are some options:
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - name [post title](url)
+- Jingyi Mao 【Ask syllabus】 https://app.notion.com/p/Week-7-Embedding-4150ac200fb08083be5febd23554ea23?source=copy_link 
