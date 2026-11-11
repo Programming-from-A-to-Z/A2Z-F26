@@ -92,3 +92,4 @@ Here are some options:
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - name [post title](url)
+- Tianchen [Semantic Search Goldfish](https://comfortable-drink-522.notion.site/Blog8-4159066e2c7880e0970ff51f25b18b15?source=copy_link)
