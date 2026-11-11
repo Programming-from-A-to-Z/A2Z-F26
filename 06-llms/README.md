@@ -130,3 +130,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Amanda - [Restaurant agent](https://app.notion.com/p/A-restaurant-recommend-agent-4073320cd651800e903bd8e978008562?source=copy_link)
 - Queena - [Interpret Animal Behavior](https://app.notion.com/p/Week6_LLM-Interpret-Animal-Behavior-40cd452073bc806f8c66f6c276c391c2?source=copy_link)
 - Raven - [language model builder test](https://app.notion.com/p/A2Z-LLM-Language-Model-Builder-41062d50410680a1bfcaed69f9859bdb?source=copy_link)
+- Seeha - [simple changes in example codes](https://app.notion.com/p/Assignment-6-40eff69c6b358031b395e7436a70bcd5?source=copy_link)
