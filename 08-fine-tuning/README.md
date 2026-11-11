@@ -1,6 +1,6 @@
 # Fine-tuning
 
-- [Fine-tuning slides](TODO)
+- [Fine-tuning slides](https://docs.google.com/presentation/d/11W0ef0Mgjv7WdUyLSsWeCk3AgAnIljk8XuMCRacEBHM/edit?usp=sharing)
 
 **Fine-tuning** starts from a model that someone else already pre-trained and keeps training it on a small dataset of your own. It follows the same process as pre-training (predict the next token, measure the error, adjust the weights), but can be done with far less data and compute. Generally speaking, fine-tuning is well suited for changing a model's voice, style, or behavior, but is not a reliable way to teach a model new knowledge (for that, use [RAG](../07-embeddings)). Fine-tuning can adjust the weights of the model itself or train a smaller new set of weights that get added to the model's weights (See LoRA below).
 
