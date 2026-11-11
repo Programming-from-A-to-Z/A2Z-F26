@@ -92,6 +92,7 @@ Here are some options:
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - name [post title](url)
+- Jingyi Mao 【Ask syllabus】 https://app.notion.com/p/Week-7-Embedding-4150ac200fb08083be5febd23554ea23?source=copy_link 
 - Raven [zero shot image classifier](https://app.notion.com/p/A2Z-exploring-embeddings-41362d5041068090b027c7d9de584ae6?source=copy_link)
 - Tianchen [Semantic Search Goldfish](https://comfortable-drink-522.notion.site/Blog8-4159066e2c7880e0970ff51f25b18b15?source=copy_link)
 - Seeha [trying to understand embeddings](https://app.notion.com/p/Assignment-7-414ff69c6b35803ea10af936dfb421c2?source=copy_link)
