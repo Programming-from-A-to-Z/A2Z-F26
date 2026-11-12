@@ -98,4 +98,5 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Tianchen [Semantic Search Goldfish](https://comfortable-drink-522.notion.site/Blog8-4159066e2c7880e0970ff51f25b18b15?source=copy_link)
 - Seeha [trying to understand embeddings](https://app.notion.com/p/Assignment-7-414ff69c6b35803ea10af936dfb421c2?source=copy_link)
 - Jua [Describe yourself in your own words](https://app.notion.com/p/Week-8-4146da1aec62804ab547d52cf1b3c287)
+- Joey [Emotion Semantic Search](https://tattered-aluminum-b15.notion.site/A2Z-Week-07-415fe019f0a580bfb2e5e001947dd4bd?source=copy_link)
 - Queena [Semantic Search Text](https://app.notion.com/p/Week7_Semantic-Search-Text-413d452073bc808a8a3af6855cbdac39?source=copy_link)
