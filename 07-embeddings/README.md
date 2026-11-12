@@ -99,3 +99,4 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Seeha [trying to understand embeddings](https://app.notion.com/p/Assignment-7-414ff69c6b35803ea10af936dfb421c2?source=copy_link)
 - Jua [Describe yourself in your own words](https://app.notion.com/p/Week-8-4146da1aec62804ab547d52cf1b3c287)
 - Yukuan [week 7](https://app.notion.com/p/YukuanGe-Embeddings-41370ff9c538809b9421f16ece75ed5f?source=copy_link)
+- Queena [Semantic Search Text](https://app.notion.com/p/Week7_Semantic-Search-Text-413d452073bc808a8a3af6855cbdac39?source=copy_link)
