@@ -26,9 +26,9 @@
 
 ### Week 10 - [ML: Fine-tuning](08-fine-tuning), 11/11
 
-### Week 11 - [Final Project Proposals](final) + [Agents & MCP](09-mcp-agents), 11/18
+### Week 11 - [Agents & MCP](09-mcp-agents), 11/18
 
-### Week 12 - [Final Project Proposals](final) + [Agents & MCP](09-mcp-agents), 11/25
+### Week 12 - [Final Project Proposals](final), 11/25
 
 ### Week 13 - [Final Project in Progress](final), 12/2
 
