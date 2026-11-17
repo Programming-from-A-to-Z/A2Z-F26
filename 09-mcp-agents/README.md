@@ -80,3 +80,7 @@ An agent harness (or scaffolding) is a software program that brings together an 
 
 - 🔗 [Pi](https://pi.dev) - four tools: read, write, edit, bash. [Pi with Ollama](https://docs.ollama.com/integrations/pi)
 - 🔗 [OpenClaw](https://github.com/openclaw/openclaw) - always-on assistant with access to your machine that you can message from Discord, WhatsApp, etc. [OpenClaw with Ollama](https://docs.ollama.com/integrations/openclaw)
+
+## Assignment
+
+- 🎨 [Prepare to present a final project proposal](/final/proposals.md).
