@@ -2,14 +2,9 @@
 
 ## Schedule and Documentation Links:
 
-### 11/18
-
-- Name --
-
 ### 11/25
 
 - Name --
-
 
 ## Proposal Guidelines
 
