@@ -1,5 +1,7 @@
 # MCP & Agents
 
+[MCP and Agents Slides](https://docs.google.com/presentation/d/1XL42EfjEv-aQiAXMmEy8kKHv6_-6VJpInC-7yThZSxw/edit?usp=sharing)
+
 ## Before class
 
 1. Install [LM Studio](https://lmstudio.ai) and download a model that can call tools: `gemma-4-12b-qat` or `qwen3.8-27b` (much bigger). On a laptop with less memory, search for `gemma-4` and pick a smaller size. LM Studio should let you know if a model will fit on your machine!
