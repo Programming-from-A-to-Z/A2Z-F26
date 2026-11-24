@@ -12,7 +12,7 @@
 - Sammy --
 - Sol --
 - Joey --
-- Seeha --
+- Seeha -- [What Is -?](https://app.notion.com/p/Final-Project-Proposal-400ff69c6b358060a994cfbc805aa4b1?source=copy_link)
 - Yukuan --
 - Jingyi- --
 - Amanda --
