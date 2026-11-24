@@ -4,7 +4,7 @@
 
 ### 11/25
 
-- Name --
+- Name -- [project title](project url)
 
 ## Proposal Guidelines
 
