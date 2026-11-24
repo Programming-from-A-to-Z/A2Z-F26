@@ -5,6 +5,20 @@
 ### 11/25
 
 - Name -- [project title](project url)
+- Tianchen --
+- Richard --
+- Ran --
+- Jua --
+- Sammy --
+- Sol --
+- Joey --
+- Seeha --
+- Yukuan --
+- Jingyi- --
+- Amanda --
+- Queena --
+- Raven --
+- Bairui --
 
 ## Proposal Guidelines
 
