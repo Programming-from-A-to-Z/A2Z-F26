@@ -11,13 +11,13 @@
 - Jua --
 - Sammy --
 - Sol --
-- Joey --
+- Joey -- [A Random Piece of Earth](https://docs.google.com/presentation/d/1qs1SukwvS_A94nTTjkijU9u-tAL1ZXIWIM9oTSzEWPE/edit?usp=sharing)
 - Seeha -- [What Is -?](https://app.notion.com/p/Final-Project-Proposal-400ff69c6b358060a994cfbc805aa4b1?source=copy_link)
 - Yukuan --
 - Jingyi- --
 - Amanda --
 - Queena --
-- Raven --
+- Raven -- [Museum of Acquired Scribbles & Knick-Knacks](https://app.notion.com/p/A2Z-final-proposal-museum-of-human-stuff-42262d504106803dacede6cc4e26f338?source=copy_link)
 - Bairui -- [DrawNext](https://spangle-clutch-0a2.notion.site/A2Z-Final-Draw-Next-4238ad8589b6805a876beb12f14a4082)
 
 ## Proposal Guidelines
