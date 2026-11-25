@@ -17,7 +17,7 @@
 - Jingyi- --
 - Amanda --
 - Queena --
-- Raven --
+- Raven -- [Museum of Acquired Scribbles & Knick-Knacks](https://app.notion.com/p/A2Z-final-proposal-museum-of-human-stuff-42262d504106803dacede6cc4e26f338?source=copy_link)
 - Bairui --
 
 ## Proposal Guidelines
