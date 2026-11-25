@@ -5,7 +5,7 @@
 ### 11/25
 
 - Name -- [project title](project url)
-- Tianchen -- [Song Emperor Teaching Drawing](https://comfortable-drink-522.notion.site/Blog-9-4229066e2c7880aca5f8e305c1a2a843?source=copy_link）
+- Tianchen -- [Song Emperor Teaching Drawing](https://comfortable-drink-522.notion.site/Blog-9-4229066e2c7880aca5f8e305c1a2a843?source=copy_link)
 - Richard --
 - Ran --
 - Jua --
