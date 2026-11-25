@@ -15,7 +15,7 @@
 - Seeha -- [What Is -?](https://app.notion.com/p/Final-Project-Proposal-400ff69c6b358060a994cfbc805aa4b1?source=copy_link)
 - Yukuan -- [Bu San](https://app.notion.com/p/Final-Project-Proposal-Yukuan-Ge-42270ff9c538804da8cede1e655b1428?source=copy_link)
 - Jingyi- --[Jingyi](https://app.notion.com/p/Final-assignment-proposal-4230ac200fb0807dabeff272d941f532) 
-- Amanda --
+- Amanda --[You just landed on my planet](https://app.notion.com/p/Week-11-You-just-landed-on-my-planet-4233320cd651800da588efa535e55fc4source=copy_link)
 - Queena -- [Paper Town](https://app.notion.com/p/Final_Proposal-421d452073bc80f4af46de72ef570fc0?source=copy_link)
 - Raven -- [Museum of Acquired Scribbles & Knick-Knacks](https://app.notion.com/p/A2Z-final-proposal-museum-of-human-stuff-42262d504106803dacede6cc4e26f338?source=copy_link)
 - Bairui -- [DrawNext](https://spangle-clutch-0a2.notion.site/A2Z-Final-Draw-Next-4238ad8589b6805a876beb12f14a4082)
