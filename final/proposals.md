@@ -16,7 +16,7 @@
 - Yukuan --
 - Jingyi- --
 - Amanda --
-- Queena --
+- Queena -- [Paper Town](https://app.notion.com/p/Final_Proposal-421d452073bc80f4af46de72ef570fc0?source=copy_link)
 - Raven --
 - Bairui --
 
