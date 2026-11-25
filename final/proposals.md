@@ -11,7 +11,7 @@
 - Jua --
 - Sammy --
 - Sol --
-- Joey --
+- Joey -- [A Random Piece of Earth](https://docs.google.com/presentation/d/1qs1SukwvS_A94nTTjkijU9u-tAL1ZXIWIM9oTSzEWPE/edit?usp=sharing)
 - Seeha -- [What Is -?](https://app.notion.com/p/Final-Project-Proposal-400ff69c6b358060a994cfbc805aa4b1?source=copy_link)
 - Yukuan --
 - Jingyi- --
