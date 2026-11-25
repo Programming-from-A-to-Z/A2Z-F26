@@ -18,7 +18,7 @@
 - Amanda --
 - Queena --
 - Raven --
-- Bairui --
+- Bairui -- [DrawNext](https://spangle-clutch-0a2.notion.site/A2Z-Final-Draw-Next-4238ad8589b6805a876beb12f14a4082)
 
 ## Proposal Guidelines
 
