@@ -7,7 +7,7 @@
 - Name -- [project title](project url)
 - Tianchen -- [Song Emperor Teaching Drawing](https://comfortable-drink-522.notion.site/Blog-9-4229066e2c7880aca5f8e305c1a2a843?source=copy_link)
 - Richard --
-- Ran --
+- Ran -- [Treasure Hunt](https://app.notion.com/p/Final-Proposal-423c2894908d803ca472cc409018d92d?source=copy_link)
 - Jua --
 - Sammy --
 - Sol --
